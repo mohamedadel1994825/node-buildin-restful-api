@@ -1,0 +1,11 @@
+{
+  "name": "building Resful api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1",
+    "underscore": "^1.10.2"
+  }
+}
